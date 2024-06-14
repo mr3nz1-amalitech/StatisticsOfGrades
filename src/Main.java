@@ -43,6 +43,7 @@ public class Main {
         System.out.println("Values: \n\n");
         System.out.println("The maximum grade is: " + max);
         System.out.println("The minimum grade is: " + min);
+        System.out.println("The average grade is: " + sum / numsStringArr.length);
 
 
         System.out.println("\n\nGraph: \n\n");
